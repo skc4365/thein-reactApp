@@ -14,6 +14,7 @@ function Layout() {
         <Outlet /> {/* Route가 바뀌는 영역 */}
       </main>
       <Foooter />
+      
     </div>
   );
 }
